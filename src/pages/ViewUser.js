@@ -65,7 +65,7 @@ export const ViewUser = () => {
         </div>
         <Modal show={show} onHide={() => setShow(false)}>
             <Modal.Header closeButton>
-                <Modal.Title>ADD MOVIE</Modal.Title>
+                <Modal.Title>UPDATE MOVIE</Modal.Title>
             </Modal.Header>
             <Modal.Body>
                 <Form>

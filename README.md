@@ -12,8 +12,6 @@ Available to use as Boiler-Plate
 
 ## Installation
 
-Install my-project with git command
-
 ```bash
   git clone https://github.com/zionsploit/mssql-graphql-react-crud.git
 ```

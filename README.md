@@ -1,8 +1,10 @@
 
 # MSSQL + GRAPHQL + REACT-REDUX CRUD
 
-Open Source Create Read Update and Delete Functions.
-You can use this as Boiler-Plate
+Your can use this to perform CRUD using Express + MSSQL + GraphQL 
+And using React Redux Library in Front End
+
+Available to use as Boiler-Plate
 ## Authors
 
 - [@John Mark Banisilon](https://www.facebook.com/crypto.graphy.39/)

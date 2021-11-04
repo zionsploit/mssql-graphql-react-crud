@@ -13,7 +13,7 @@ You can use this as Boiler-Plate
 Install my-project with git command
 
 ```bash
-  https://github.com/zionsploit/mssql-graphql-react-crud.git
+  git clone https://github.com/zionsploit/mssql-graphql-react-crud.git
 ```
     
 ## USAGE

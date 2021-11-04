@@ -23,6 +23,6 @@ Install my-project with git command
 - use 'npm install' or 'yarn' to install dependencies
 - Configure your Database in ../server/config
 - Create DB table with name 'movie_tb' or use the 'movie_tb.sql' file in root folder
-- Run the Fron end with yarn dev
+- Run the Front end with yarn dev
 - Run the Server with yarn server
  
